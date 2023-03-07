@@ -1,4 +1,4 @@
-# Propoint Agent
+# ProPoint Agent
 
 This repository contains releases of the ProPoint Agent Electron application.
 
